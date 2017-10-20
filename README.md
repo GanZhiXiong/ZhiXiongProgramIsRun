@@ -1,0 +1,2 @@
+# ZhiXiongProgramIsRun
+使用Inno Setup制作安装和卸载时判断程序是否运行的脚本
